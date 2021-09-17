@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [E-Mail](omgdanieltam@protonmail.com), [Twitter](https://twitter.com/omgdanieltam), or Discord: omgdanieltam#5871
 - 😄 Pronouns: ... he/him
 
-My more private repositories are located on my personal git instances located [here](https://git.dtam.pw).
+My more private repositories are located on my personal git instances located [here](https://git.dtam.pw/daniel).
