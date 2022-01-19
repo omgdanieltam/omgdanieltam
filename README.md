@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ### Hello, I'm Daniel Tam 👋
 
-#### I'm a full time System Administrator and currently a student studying Computer Science at University of Texas in Arlington.
+#### I'm a full time System Administrator.
 - 🔭 I’m currently working on ... Linux Administration
 - 🌱 I'm currently learning ... Go
 - 👯 I’m looking to collaborate on ... anything!
