@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 ### Hello, I'm Daniel Tam 👋
 
-#### I'm a full time System Administrator.
-- 🔭 I’m currently working on ... Linux Administration
+#### I'm a full time Software Engineer.
+- 🔭 I’m currently working on ... DevOps
 - 🌱 I'm currently learning ... Go
 - 👯 I’m looking to collaborate on ... anything!
 - 📫 How to reach me: [E-Mail](mailto:omgdanieltam@protonmail.com), [Twitter](https://twitter.com/omgdanieltam), or Discord: omgdanieltam#5871
