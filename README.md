@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... he/him
 
 My more private repositories are located on my personal git instances located [here](https://git.dtam.pw/daniel).
+
+My projects blog: [https://www.danieltam.xyz](https://www.danieltam.xyz).
